@@ -3,6 +3,10 @@
   "version": "0.0.4",
   "description": "Proud owner of kevin-leung NPM package. All rights reserved.",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KSLHacks/kevin-leung.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
