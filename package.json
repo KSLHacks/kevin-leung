@@ -1,0 +1,17 @@
+{
+  "name": "kevin-leung",
+  "version": "0.0.4",
+  "description": "Proud owner of kevin-leung NPM package. All rights reserved.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bill-barnes": "0.0.0",
+    "chris-mayo": "0.0.2",
+    "ryan-volum": "0.0.0"
+  }
+}
