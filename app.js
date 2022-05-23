@@ -4,7 +4,7 @@
 
 // Do something not so impressive
 const kevinLeung = () => {
-  return 'Kevin was here.'
-}
+  return 'Kevin was here.';
+};
 
-export default kevinLeung
+export default kevinLeung;

@@ -3,6 +3,7 @@
   "version": "0.0.5",
   "description": "Proud owner of kevin-leung NPM package. All rights reserved.",
   "main": "app.js",
+  "type":"module",
   "repository": {
     "type": "git",
     "url": "git://github.com/KSLHacks/kevin-leung.git"
